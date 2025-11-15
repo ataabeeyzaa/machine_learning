@@ -1,0 +1,6 @@
+Method: sifirla
+Model: random_forest
+Accuracy: 0.8171641791044776
+Precision: 0.8444444444444444
+Recall: 0.6846846846846847
+F1 Score: 0.7562189054726368

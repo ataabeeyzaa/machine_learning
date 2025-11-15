@@ -1,0 +1,5 @@
+K-Fold Cross Validation Results (ROS, k=5):
+Accuracy: 0.76 ± 0.02
+Precision: 0.78 ± 0.01
+Recall: 0.74 ± 0.07
+F1 Score: 0.76 ± 0.04

@@ -1,0 +1,6 @@
+Method: silme
+Model: decision_tree
+Accuracy: 0.6962616822429907
+Precision: 0.6451612903225806
+Recall: 0.6521739130434783
+F1 Score: 0.6486486486486487

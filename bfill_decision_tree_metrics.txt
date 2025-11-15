@@ -1,0 +1,6 @@
+Method: bfill
+Model: decision_tree
+Accuracy: 0.7761194029850746
+Precision: 0.7475728155339806
+Recall: 0.6936936936936937
+F1 Score: 0.719626168224299

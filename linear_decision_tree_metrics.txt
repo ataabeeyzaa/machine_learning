@@ -1,0 +1,6 @@
+Method: linear
+Model: decision_tree
+Accuracy: 0.75
+Precision: 0.6833333333333333
+Recall: 0.7387387387387387
+F1 Score: 0.70995670995671

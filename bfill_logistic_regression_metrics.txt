@@ -1,0 +1,6 @@
+Method: bfill
+Model: logistic_regression
+Accuracy: 0.8059701492537313
+Precision: 0.7920792079207921
+Recall: 0.7207207207207207
+F1 Score: 0.7547169811320755

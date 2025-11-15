@@ -1,0 +1,6 @@
+Method: sifirla
+Model: logistic_regression
+Accuracy: 0.7985074626865671
+Precision: 0.7766990291262136
+Recall: 0.7207207207207207
+F1 Score: 0.7476635514018691

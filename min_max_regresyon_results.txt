@@ -1,0 +1,5 @@
+Logistic Regression:
+Accuracy: 0.7988826815642458
+Precision: 0.7714285714285715
+Recall: 0.7297297297297297
+F1 Score: 0.75

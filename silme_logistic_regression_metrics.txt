@@ -1,0 +1,6 @@
+Method: silme
+Model: logistic_regression
+Accuracy: 0.794392523364486
+Precision: 0.8
+Recall: 0.6956521739130435
+F1 Score: 0.7441860465116279

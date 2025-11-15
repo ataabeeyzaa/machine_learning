@@ -1,0 +1,6 @@
+Method: linear
+Model: logistic_regression
+Accuracy: 0.8097014925373134
+Precision: 0.7941176470588235
+Recall: 0.7297297297297297
+F1 Score: 0.7605633802816901

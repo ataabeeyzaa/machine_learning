@@ -1,0 +1,33 @@
+# Sanal Ortam (Virtual Environment)
+venv/
+env/
+*.env
+
+# Python Önbelleği
+__pycache__/
+*.pyc
+*.pyo
+
+# Tüm Veri Dosyaları (En yaygın formatlar)
+*.csv
+*.json
+*.zip
+*.db
+*.sqlite3
+*.data
+*.xlsx
+
+# Tüm Eğitilmiş Model Dosyaları
+*.pkl
+*.h5
+*.pth
+*.pb
+*.weights
+*.onnx
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# İşletim sistemi dosyaları
+.DS_Store
+Thumbs.db

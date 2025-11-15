@@ -1,0 +1,6 @@
+Method: silme
+Model: random_forest
+Accuracy: 0.794392523364486
+Precision: 0.8243243243243243
+Recall: 0.6630434782608695
+F1 Score: 0.7349397590361446

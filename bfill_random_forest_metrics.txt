@@ -1,0 +1,6 @@
+Method: bfill
+Model: random_forest
+Accuracy: 0.7985074626865671
+Precision: 0.8202247191011236
+Recall: 0.6576576576576577
+F1 Score: 0.73

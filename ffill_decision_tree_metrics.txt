@@ -1,0 +1,6 @@
+Method: ffill
+Model: decision_tree
+Accuracy: 0.753731343283582
+Precision: 0.6956521739130435
+Recall: 0.7207207207207207
+F1 Score: 0.7079646017699115

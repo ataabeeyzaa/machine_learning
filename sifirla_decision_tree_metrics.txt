@@ -1,0 +1,6 @@
+Method: sifirla
+Model: decision_tree
+Accuracy: 0.753731343283582
+Precision: 0.7064220183486238
+Recall: 0.6936936936936937
+F1 Score: 0.7

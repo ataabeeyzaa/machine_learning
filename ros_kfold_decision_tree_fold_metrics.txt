@@ -1,0 +1,26 @@
+Fold, Accuracy, Precision, Recall, F1 Score
+1, 0.84, 0.83, 0.89, 0.86
+Confusion Matrix:
+[[ 81  22]
+ [ 13 104]]
+
+2, 0.83, 0.79, 0.90, 0.84
+Confusion Matrix:
+[[88 26]
+ [11 95]]
+
+3, 0.86, 0.84, 0.89, 0.86
+Confusion Matrix:
+[[91 19]
+ [12 98]]
+
+4, 0.83, 0.79, 0.88, 0.83
+Confusion Matrix:
+[[87 25]
+ [13 94]]
+
+5, 0.84, 0.83, 0.84, 0.84
+Confusion Matrix:
+[[91 19]
+ [17 92]]
+

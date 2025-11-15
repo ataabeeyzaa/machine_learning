@@ -1,0 +1,30 @@
+Method A
+Accuracy: 0.7759562841530054
+Confusion Matrix:
+[[ 42  18]
+ [ 23 100]]
+
+Method B
+Accuracy: 0.7934904601571269
+Confusion Matrix:
+[[470  79]
+ [105 237]]
+
+Method C
+Accuracy: 0.7934904601571269
+Confusion Matrix:
+[[472  77]
+ [107 235]]
+
+Method D
+Accuracy: 0.7878787878787878
+Confusion Matrix:
+[[468  81]
+ [108 234]]
+
+Method E
+Accuracy: 0.796400449943757
+Confusion Matrix:
+[[472  77]
+ [104 236]]
+

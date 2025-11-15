@@ -1,0 +1,6 @@
+Method: linear
+Model: random_forest
+Accuracy: 0.8097014925373134
+Precision: 0.8333333333333334
+Recall: 0.6756756756756757
+F1 Score: 0.746268656716418

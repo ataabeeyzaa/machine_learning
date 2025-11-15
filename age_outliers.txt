@@ -1,0 +1,13 @@
+Age Sütunundaki Uç Deðerler:
+     PassengerId  Survived  Pclass                                  Name   Sex   Age  SibSp  Parch      Ticket     Fare Cabin Embarked
+33            34         0       2                 Wheadon, Mr. Edward H  male  66.0      0      0  C.A. 24579  10.5000   NaN        S
+54            55         0       1        Ostby, Mr. Engelhart Cornelius  male  65.0      0      1      113509  61.9792   B30        C
+96            97         0       1             Goldschmidt, Mr. George B  male  71.0      0      0    PC 17754  34.6542    A5        C
+116          117         0       3                  Connors, Mr. Patrick  male  70.5      0      0      370369   7.7500   NaN        Q
+280          281         0       3                      Duane, Mr. Frank  male  65.0      0      0      336439   7.7500   NaN        Q
+456          457         0       1             Millet, Mr. Francis Davis  male  65.0      0      0       13509  26.5500   E38        S
+493          494         0       1               Artagaveytia, Mr. Ramon  male  71.0      0      0    PC 17609  49.5042   NaN        C
+630          631         1       1  Barkworth, Mr. Algernon Henry Wilson  male  80.0      0      0       27042  30.0000   A23        S
+672          673         0       2           Mitchell, Mr. Henry Michael  male  70.0      0      0  C.A. 24580  10.5000   NaN        S
+745          746         0       1          Crosby, Capt. Edward Gifford  male  70.0      1      1   WE/P 5735  71.0000   B22        S
+851          852         0       3                   Svensson, Mr. Johan  male  74.0      0      0      347060   7.7750   NaN        S
